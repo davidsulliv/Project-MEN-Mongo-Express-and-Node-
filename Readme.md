@@ -2,9 +2,7 @@
 
 #Para rodar a aplicação executar os seguintes comandos:
 
-npm install
-
-node src/index.js
+docker-compose up
 
 link para testes da API no Postman
 
